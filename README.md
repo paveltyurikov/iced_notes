@@ -4,8 +4,10 @@ An application for keeping cataloged notes, written using [Iced, a cross-platfor
 
 ### NOT tested on Windows at all yet [sorry]
 
+## Run application
+
 ```shell
-git clone https://github.com/pavelltyurikov/iced_notes
+git clone https://github.com/paveltyurikov/iced_notes
 ```
 
 ```shell
